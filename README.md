@@ -1,5 +1,5 @@
 # epetterswt.github.io
-Ezekiel Petters
+Ezekiel Petters - epetters@my.waketech.edu
 <br>
 My GitHub account is a collection of web pages that I've coded and designed, or at least tried to start.
 <br>
