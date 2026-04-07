@@ -3,6 +3,8 @@
   <body>
     <h1>My Portfolio</h1>
 
+    <p>I can build websites for you and offer you pre-made websites!</p>
+
     <nav>
       <a href="#">Home</a>
     </nav>
