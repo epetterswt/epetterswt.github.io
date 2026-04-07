@@ -4,4 +4,8 @@
     <h1>welcome</h1>
       <h2>My Portfolio</h2>
   </body>
+
+  <style>
+    h1 {color: blue;}
+  </style>
 </html>
